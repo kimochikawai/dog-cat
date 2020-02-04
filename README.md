@@ -8,5 +8,7 @@ git log (xem sự thay đổi của thư mục trong file , ai add ?ai remove?)
 git show + (code commit)
 git diff (diffirent)
 // working directory
-// staging area
+// staging area (addFile vào staging area)
 // git respository
+git checkout
+git reset
